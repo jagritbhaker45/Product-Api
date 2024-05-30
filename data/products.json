@@ -1,0 +1,79 @@
+[
+  {
+    "productId": "1",
+    "productName": "Cream",
+    "productDescription": "Moisturizing cream for soft skin",
+    "productImage": "../../public/images/Cream.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "2",
+    "productName": "Bat",
+    "productDescription": "Used for playing",
+    "productImage": "../../public/images/Headphone.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "3",
+    "productName": "shoes",
+    "productDescription": "Casual shoes for daily wear",
+    "productImage": "../../public/images/shoes.jpg",
+    "isActive": false
+  },
+  {
+    "productId": "4",
+    "productName": "Watch",
+    "productDescription": "Classic wristwatch for telling time",
+    "productImage": "../../public/images/Watch.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "5",
+    "productName": "Laptop",
+    "productDescription": "A versatile tool for work and entertainment",
+    "productImage": "../../public/images/Laptop.jpg",
+    "isActive": false
+  },
+  {
+    "productId": "6",
+    "productName": "Mobile",
+    "productDescription": "A handy device for communication and apps",
+    "productImage": "../../public/images/Mobile.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "7",
+    "productName": "Comb",
+    "productDescription": "A useful tool for hair styling",
+    "productImage": "../../public/images/Comb.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "8",
+    "productName": "Ball",
+    "productDescription": "Great for sports and play",
+    "productImage": "../../public/images/Ball.jpg",
+    "isActive": false
+  },
+  {
+    "productId": "9",
+    "productName": "Calculator",
+    "productDescription": "Essential for quick calculations",
+    "productImage": "../../public/images/Calculator.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "10",
+    "productName": "Bed",
+    "productDescription": "Provides comfort and relaxation",
+    "productImage": "../../public/images/Bed.jpg",
+    "isActive": true
+  },
+  {
+    "productId": "11",
+    "productName": "Pencil",
+    "productDescription": "Perfect for writing and drawing",
+    "productImage": "../../public/images/Pencil.jpg",
+    "isActive": true
+  }
+]
